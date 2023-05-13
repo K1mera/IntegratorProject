@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+
+}
+
+.img {
+    width: 50vw;
+}
+
+.info {
+    width: 50vw;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
